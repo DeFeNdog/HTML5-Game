@@ -1,0 +1,13 @@
+{
+  "name": "wheel",
+  "homepage": "http:blockheap.com",
+  "authors": [
+    "Carlos Novoa <cenovoa21@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "webfontloader": "^1.6.28"
+  }
+}

@@ -1,0 +1,31 @@
+{
+
+  "dependencies": {
+
+    "main.js": {
+      "bower" : ["jquery", "webfontloader"],
+      "files": [
+        ["scripts/phaser-ce@2.8.1.js"],
+        ["scripts/boot.js"],
+        ["scripts/preload.js"],
+        ["scripts/menu.js"],
+        ["scripts/game.js"],
+        ["scripts/app.js"]
+      ],
+      "main": true
+    },
+
+    "main.css": {
+      "files": [
+        "styles/main.scss"
+      ],
+      "main" : true
+    }
+
+  },
+
+  "config": {
+    "devUrl": "http://wheel.local"
+  }
+
+}
