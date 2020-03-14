@@ -4,3 +4,9 @@ This was a fun little experiment in HTML5 game development. I used the [Phaser](
 ## Libraries & Tools
 * [Phaser](https://phaser.io/)
 * [TexturePacker sprite sheet creation](https://www.codeandweb.com/texturepacker)
+
+![Load Screen](https://github.com/DeFeNdog/HTML5-Game/blob/master/load-screen.png)
+
+![Start Screen](https://github.com/DeFeNdog/HTML5-Game/blob/master/start-screen.png)
+
+![Game Screen](https://github.com/DeFeNdog/HTML5-Game/blob/master/game-screen.png)
